@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 * OS: Window
 * Tools: PyCharm
 * DB: MS-SQL
-* url: 
+* url: https://github.com/cocodejam/etfcrawler
 
 
 
