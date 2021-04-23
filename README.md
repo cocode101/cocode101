@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 * 구조: Server-Client
 * url: https://github.com/cocodejam/simsimtalk
 
-### 2. <<washerwasher>> 
+### 2. << washerwasher >> 
 * IoT project
 * coded in 2017.07-2017.08
 * Language: C#, Java
