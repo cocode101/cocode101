@@ -35,4 +35,4 @@
 * Language: Python
 * Tools: PyCharm
 * DB: ...
-* url: https://github.com/cocodejam/jamfy101
+* url: https://github.com/cocodejam/django_toyweb
