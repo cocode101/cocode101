@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 * 구조: 서버(Java)-클라이언트(매장 관리자, C#)-클라이언트(매장 이용자, Java)-하드웨어 모듈
 * url: https://github.com/cocodejam/washerwasher
 
-### 3. <<etf_scraper>>
+### 3. <<etfscraper>>
 * crawling program
 * coded in 2020.08
 * Language: Python
