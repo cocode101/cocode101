@@ -33,7 +33,6 @@
 * django 학습용 Web page
 * coded in ..
 * Language: Python
-* OS: Window
 * Tools: PyCharm
 * DB: ...
 * url: https://github.com/cocodejam/jamfy101
