@@ -30,9 +30,9 @@
 * url: https://github.com/cocodejam/etfscraper
 
 ### 4. to be continue..
-* django 학습용 Web page
+* Web 학습용...
 * coded in ..
 * Language: Python
 * Tools: PyCharm
 * DB: ...
-* url: https://github.com/cocodejam/django_toyweb
+* url: https://github.com/cocodejam/flask_toyweb
