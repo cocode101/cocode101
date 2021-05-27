@@ -20,7 +20,7 @@
 * DB: MS-SQL
 * H/W: Arduino, RaspberryPi, Xbee
 * 구조: 서버(Java)-클라이언트(매장 관리자, C#)-클라이언트(매장 이용자, Java)-하드웨어 모듈
-* url: https://github.com/cocodejam/washerwash
+* url: https://github.com/cocodejam/washerwasher
 
 ### 3. to be continue..
 * Web 학습용...
