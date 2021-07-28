@@ -8,7 +8,7 @@
 * Tools: Visual Studio 2015
 * DB: MS-SQL
 * 구조: Server-Client
-* url: https://github.com/cocodejam/simsimtalk
+* url: https://github.com/cocode101/simsimtalk
 
 ### 2. washerwasher
 * IoT 임베디드 소프트웨어 과정 2차 미니 프로젝트
@@ -20,7 +20,7 @@
 * DB: MS-SQL
 * H/W: Arduino, RaspberryPi, Xbee
 * 구조: 서버(Java)-클라이언트(매장 관리자, C#)-클라이언트(매장 이용자, Java)-하드웨어 모듈
-* url: https://github.com/cocodejam/washerwasher
+* url: https://github.com/cocode101/washerwasher
 
 ### 3. 이것저것...
 * Language: Python
