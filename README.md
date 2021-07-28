@@ -22,10 +22,7 @@
 * 구조: 서버(Java)-클라이언트(매장 관리자, C#)-클라이언트(매장 이용자, Java)-하드웨어 모듈
 * url: https://github.com/cocodejam/washerwasher
 
-### 3. to be continue..
-* Web 학습용...
-* coded in ..
+### 3. 이것저것...
 * Language: Python
-* Tools: PyCharm
-* DB: ...
-* url: https://github.com/cocodejam/flask_toyweb
+* url: https://github.com/cocode101/scraper_gsshop
+* url: https://github.com/cocode101/datagokr
