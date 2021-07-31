@@ -1,21 +1,17 @@
 # toy project list
 ### 1. simsimtalk - IoT 임베디드 소프트웨어 과정 1차 미니 프로젝트
 * WPF 기반 윈도우 채팅 프로그램 / 백엔드 담당
+* 기존 채팅 메신저를 벤치마킹하여 기능을 구현한 프로그램
 * Language: C#
-* OS: Window
-* Tools: Visual Studio 2015
-* DB: MS-SQL
-* 구조: Server-Client
 * url: https://github.com/cocode101/simsimtalk
 
 ### 2. washerwasher - IoT 임베디드 소프트웨어 과정 2차 미니 프로젝트
-* IoT project / 안드로이드 App, 백엔드 담당
+* IoT project / 안드로이드 App 및 백엔드 담당
 * Language: C#, Java
-* OS: Window, Android, Linux
-* Tools: Visual Studio 2015(C#), Adroid Studio(Java), Eclipse(Java)
-* DB: MS-SQL
-* H/W: Arduino, RaspberryPi, Xbee
-* 구조: 서버(Java)-클라이언트(매장 관리자, C#)-클라이언트(매장 이용자, Java)-하드웨어 모듈
+* 구조: 서버(Java)
+        매장 관리자(C#, WPF 기반 윈도우 App)
+        매장 이용자(Java, Android App)
+        하드웨어 모듈(Arduino, RaspberryPi, Xbee)
 * url: https://github.com/cocode101/washerwasher
 
 ### 3. 이것저것...
