@@ -1,7 +1,7 @@
 # toy project list
 ### 1. simsimtalk
 * IoT 임베디드 소프트웨어 과정 1차 미니 프로젝트
-* 윈도우 기반 채팅 프로그램
+* WPF 기반 윈도우 채팅 프로그램
 * coded in 2017.05
 * Language: C#
 * OS: Window
