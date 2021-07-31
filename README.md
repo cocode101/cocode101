@@ -10,8 +10,8 @@
 * Language: C#, Java
 * 구성  <br>
         서버(Java) <br>
-        매장 관리자(C#, WPF 기반 윈도우 App) <br>
-        매장 이용자(Java, Android App) <br>
+        매장 관리자(C#/ WPF 기반 윈도우 App) <br>
+        매장 이용자(Java/ Android App) <br>
         하드웨어 모듈(Arduino, RaspberryPi, Xbee) <br>
 * url: https://github.com/cocode101/washerwasher
 
