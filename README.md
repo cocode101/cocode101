@@ -6,7 +6,7 @@
 * url: https://github.com/cocode101/simsimtalk
 
 ### 2. washerwasher - IoT 임베디드 소프트웨어 과정 2차 팀 프로젝트
-* IoT project / 안드로이드 App 및 백엔드 담당
+* IoT Service Project / 안드로이드 App 및 백엔드 담당
 * Language: C#, Java
 * 구성  <br>
         서버(Java) <br>
