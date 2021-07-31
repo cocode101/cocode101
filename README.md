@@ -1,6 +1,6 @@
 # toy project list
 ### 1. simsimtalk - IoT 임베디드 소프트웨어 과정 1차 팀 프로젝트
-* WPF 기반 윈도우 채팅 프로그램 / 백엔드 담당
+* WPF 기반 윈도우 App / 백엔드 담당
 * 기존 채팅 메신저를 벤치마킹하여 기능을 구현한 프로그램
 * Language: C#
 * url: https://github.com/cocode101/simsimtalk
