@@ -17,5 +17,5 @@
 
 ### 3. 이것저것...
 * Language: Python
-* url: https://github.com/cocode101/scraper_gsshop
-* url: https://github.com/cocode101/datagokr
+* url: https://github.com/cocode101/scraper_gsshop - GS Shop 페이지 스크래핑
+* url: https://github.com/cocode101/datagokr - 코로나 긴급재난문자 송신 현황 
