@@ -8,10 +8,10 @@
 ### 2. washerwasher - IoT 임베디드 소프트웨어 과정 2차 미니 프로젝트
 * IoT project / 안드로이드 App 및 백엔드 담당
 * Language: C#, Java
-* 구조: 서버(Java)
-        매장 관리자(C#, WPF 기반 윈도우 App)
-        매장 이용자(Java, Android App)
-        하드웨어 모듈(Arduino, RaspberryPi, Xbee)
+* 구조: 서버(Java) <br>
+        매장 관리자(C#, WPF 기반 윈도우 App) <br>
+        매장 이용자(Java, Android App) <br>
+        하드웨어 모듈(Arduino, RaspberryPi, Xbee) <br>
 * url: https://github.com/cocode101/washerwasher
 
 ### 3. 이것저것...
