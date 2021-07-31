@@ -1,8 +1,6 @@
 # toy project list
-### 1. simsimtalk
-* IoT 임베디드 소프트웨어 과정 1차 미니 프로젝트
-* WPF 기반 윈도우 채팅 프로그램
-* coded in 2017.05
+### 1. simsimtalk - IoT 임베디드 소프트웨어 과정 1차 미니 프로젝트
+* WPF 기반 윈도우 채팅 프로그램 / 백엔드 담당
 * Language: C#
 * OS: Window
 * Tools: Visual Studio 2015
@@ -10,10 +8,8 @@
 * 구조: Server-Client
 * url: https://github.com/cocode101/simsimtalk
 
-### 2. washerwasher
-* IoT 임베디드 소프트웨어 과정 2차 미니 프로젝트
-* IoT project
-* coded in 2017.07-2017.08
+### 2. washerwasher - IoT 임베디드 소프트웨어 과정 2차 미니 프로젝트
+* IoT project / 안드로이드 App, 백엔드 담당
 * Language: C#, Java
 * OS: Window, Android, Linux
 * Tools: Visual Studio 2015(C#), Adroid Studio(Java), Eclipse(Java)
